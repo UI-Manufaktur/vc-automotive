@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vc-automotive
+vc-automotive.so
+vc-automotive.dylib
+vc-automotive.dll
+vc-automotive.a
+vc-automotive.lib
+vc-automotive-test-*
+*.exe
+*.o
+*.obj
+*.lst
